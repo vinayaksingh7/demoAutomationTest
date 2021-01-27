@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-27T23:43:03 IST" name="Suite" finished-at="2021-01-27T23:43:03 IST" duration-ms="107">
+    <groups>
+    </groups>
+    <test started-at="2021-01-27T23:43:03 IST" name="TestNG_Demo_Test" finished-at="2021-01-27T23:43:03 IST" duration-ms="107">
+      <class name="test.testNG_Case1">
+        <test-method signature="Demo()[pri:0, instance:test.testNG_Case1@11c9af63]" started-at="2021-01-27T23:43:03 IST" name="Demo" finished-at="2021-01-27T23:43:03 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method signature="secondTest()[pri:0, instance:test.testNG_Case1@11c9af63]" started-at="2021-01-27T23:43:03 IST" name="secondTest" finished-at="2021-01-27T23:43:03 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+      </class> <!-- test.testNG_Case1 -->
+      <class name="test.testNG_xmlTest">
+        <test-method signature="Demo()[pri:0, instance:test.testNG_xmlTest@757acd7b]" started-at="2021-01-27T23:43:03 IST" name="Demo" finished-at="2021-01-27T23:43:03 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+      </class> <!-- test.testNG_xmlTest -->
+    </test> <!-- TestNG_Demo_Test -->
+  </suite> <!-- Suite -->
+</testng-results>
